@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\bin\Debug\net9.0\atividade_imc_mstest.exe
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\bin\Debug\net9.0\atividade_imc_mstest.deps.json
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\bin\Debug\net9.0\atividade_imc_mstest.runtimeconfig.json
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\bin\Debug\net9.0\atividade_imc_mstest.dll
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\bin\Debug\net9.0\atividade_imc_mstest.pdb
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\atividade_imc_mstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\atividade_imc_mstest.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\atividade_imc_mstest.AssemblyInfo.cs
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\atividade_imc_mstest.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\atividade_imc_mstest.dll
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\refint\atividade_imc_mstest.dll
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\atividade_imc_mstest.pdb
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\atividade_imc_mstest.genruntimeconfig.cache
+C:\Users\User\Downloads\ATIVIDADE MSTEST\atividade_imc_mstest\obj\Debug\net9.0\ref\atividade_imc_mstest.dll
