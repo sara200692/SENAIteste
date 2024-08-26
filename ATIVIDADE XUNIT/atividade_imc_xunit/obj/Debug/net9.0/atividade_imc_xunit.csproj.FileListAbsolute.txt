@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\bin\Debug\net9.0\atividade_imc_xunit.exe
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\bin\Debug\net9.0\atividade_imc_xunit.deps.json
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\bin\Debug\net9.0\atividade_imc_xunit.runtimeconfig.json
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\bin\Debug\net9.0\atividade_imc_xunit.dll
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\bin\Debug\net9.0\atividade_imc_xunit.pdb
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\atividade_imc_xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\atividade_imc_xunit.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\atividade_imc_xunit.AssemblyInfo.cs
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\atividade_imc_xunit.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\atividade_imc_xunit.dll
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\refint\atividade_imc_xunit.dll
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\atividade_imc_xunit.pdb
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\atividade_imc_xunit.genruntimeconfig.cache
+C:\Users\User\Downloads\ATIVIDADE XUNIT\atividade_imc_xunit\obj\Debug\net9.0\ref\atividade_imc_xunit.dll
